@@ -1,4 +1,4 @@
-# Data_Wrangling
+# Data_Wrangling_Mini Project
 
 ## Table of Content
 
